@@ -9,8 +9,8 @@ module.exports = {
   head,
   themeConfig,
   base: '/',
-  title: `MY TITLE`,
-  ga: `MY TRACKING CODE GOOGLE ANALYTICS`,
+  title: `fizzee`,
+  ga: `UA-131492907-4`,
   evergreen: true,  // For modern browsers
   serviceWorker: true,
   locales: {

@@ -76,4 +76,6 @@ module.exports = [
   ['link', { rel: 'preconnect', href: 'https://stats.g.doubleclick.net' }],
 
   ['link', { rel: 'preload', href: 'https://www.google-analytics.com/analytics.js', as: "script" }]
+  // ['link', { rel: 'preload', href: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js', as: "script" }]
+
 ]
