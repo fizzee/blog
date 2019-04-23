@@ -1,12 +1,10 @@
 // See more in https://github.com/ktquez/vuepress-theme-ktquez#themeconfig
-const en = require('./locales/en/config')
 const ja = require('./locales/ja/config')
 
 
 module.exports = {
   locales: {
     '/': ja,
-    '/en/': en
   },
   serviceWorker: {
     updatePopup: {
@@ -14,7 +12,6 @@ module.exports = {
       buttonText: "Update"
     }
   },
-  disqus: 'atk420t',
   url: `https://MY_DOMAIN.COM`,
   cdn: '',
   blackWhite: true,

@@ -17,9 +17,6 @@ module.exports = {
     '/': {
       lang: 'ja'
     },
-    '/en/': {
-      lang: 'en'
-    },
   },
   configureWebpack() {
     return {

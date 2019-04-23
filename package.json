@@ -4,7 +4,9 @@
   "description": "Descripton your webapp",
   "scripts": {
     "dev": "node_modules/.bin/vuepress dev src",
-    "build": "node_modules/.bin/vuepress build src"
+    "build": "node_modules/.bin/vuepress build src",
+    "docs:build": "vuepress build docs",
+    "docs:dev": "vuepress dev docs"
   },
   "repository": {
     "type": "git",
@@ -23,9 +25,9 @@
   "author": "Alan Ktquez <ktquez@gmail.com> (https://ktquez.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ktquez/vuepress-theme-ktquez-starter/issues"
+    "url": "https://github.com/fizzee/blog/issues"
   },
-  "homepage": "https://github.com/ktquez/vuepress-theme-ktquez#readme",
+  "homepage": "https://github.com/fizzee",
   "devDependencies": {
     "vuepress": "^0.14.2"
   },

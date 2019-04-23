@@ -61,7 +61,6 @@ module.exports = [
   ['link', { rel: 'shortcut icon', href: '/favicon/favicon.ico' }],
 
   ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/`, hreflang: 'ja' }],
-  ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/en/`, hreflang: 'en' }],
 
   // Prebrowsing
   ['link', { rel: 'preconnect', href: 'https://connect.facebook.net/' }],
