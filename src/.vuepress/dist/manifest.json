@@ -1,11 +1,9 @@
 {
- "name": "NAME OF YOUR APP",
- "short_name": "SHORTNAME OF YOUR APP",
- "lang": "en",
- "theme_color": "#263647",
- "background_color": "#263647",
+ "name": "fizzee",
+ "short_name": "fizzee",
+ "lang": "ja",
  "display": "standalone",
- "description": "DESCRIPTION OF YOUR APP",
+ "description": "fizzee's Website",
  "start_url": "/?utm_source=pwahomescreen",
  "icons": [
   {

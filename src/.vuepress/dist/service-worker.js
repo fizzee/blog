@@ -21,19 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "7c67be5bdd81072509b1f53ffbd6c893"
+    "revision": "db5c7205dfdbd959029f632ef7f9a084"
   },
   {
     "url": "404.png",
     "revision": "6d80a471e6df85952532eb9fd220d23c"
   },
   {
-    "url": "abduction.svg",
-    "revision": "ef6dc31a4fa8384ba0cb717e83863a6e"
-  },
-  {
     "url": "about/index.html",
-    "revision": "f3f0314f4ca695de3ae9080fd92b861b"
+    "revision": "8a7ce0ca814bb85238a1de0e48cac2cb"
   },
   {
     "url": "assets/css/0.styles.ec0c0d51.css",
@@ -196,20 +192,16 @@ self.__precacheManifest = [
     "revision": "1c0ac29892850369d6a0767718247b96"
   },
   {
-    "url": "assets/js/app.b01f2c1f.js",
-    "revision": "0aa870dd0d21beee738b08299e399e17"
+    "url": "assets/js/app.996c8e21.js",
+    "revision": "2bb645f67d2d910ee395bc6e6db6d108"
   },
   {
     "url": "authors/index.html",
-    "revision": "fcd186cedebecf3d5a32dd210f13e608"
+    "revision": "fe2efab52a26440e41374eda122cd049"
   },
   {
     "url": "authors/ktquez.html",
-    "revision": "c6c9588e145500ab2fe534e502f33d8d"
-  },
-  {
-    "url": "autores/ktquez.png",
-    "revision": "4988ac8116c5ccf8bccfad31fd996fea"
+    "revision": "47fae52311faafb13af35832ac160d3f"
   },
   {
     "url": "avatar/ogi.png",
@@ -221,11 +213,11 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "97a1e0ee36b5d546baf710bfb8093285"
+    "revision": "6f374fd6a0d44a5b54ff09a3429b1040"
   },
   {
     "url": "categories/vuejs.html",
-    "revision": "dc9c29c2966b32041bdb6e760688e76e"
+    "revision": "dabe438c1ead52b7a2919c1b29895670"
   },
   {
     "url": "comingsoon.png",
@@ -233,143 +225,203 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "83d0f843e624f70faf8340423fb5196a"
+    "revision": "052b6865a67bf6cd42b3a54507309b11"
   },
   {
-    "url": "favicon/android-chrome-192x192.png",
+    "url": "favicon()/android-chrome-192x192.png",
     "revision": "7dd8a65725268f26938139b90d13ddfb"
   },
   {
-    "url": "favicon/android-chrome-512x512.png",
+    "url": "favicon()/android-chrome-512x512.png",
     "revision": "93a3772555db2ce10cee2b8aa5369b0b"
   },
   {
-    "url": "favicon/android-icon-144x144.png",
+    "url": "favicon()/android-icon-144x144.png",
     "revision": "fe6b430e258740bcd64a2baf873a6d92"
   },
   {
-    "url": "favicon/android-icon-192x192.png",
+    "url": "favicon()/android-icon-192x192.png",
     "revision": "802a593052e21156374bf7b9cf02c2a7"
   },
   {
-    "url": "favicon/android-icon-36x36.png",
+    "url": "favicon()/android-icon-36x36.png",
     "revision": "9ad81760948772380acd04179c6f161a"
   },
   {
-    "url": "favicon/android-icon-48x48.png",
+    "url": "favicon()/android-icon-48x48.png",
     "revision": "5d41a42424444503de5e10809d837b33"
   },
   {
-    "url": "favicon/android-icon-72x72.png",
+    "url": "favicon()/android-icon-72x72.png",
     "revision": "30de33a38d62270b7674423e33c2a296"
   },
   {
-    "url": "favicon/android-icon-96x96.png",
+    "url": "favicon()/android-icon-96x96.png",
     "revision": "3a0660f83f639a9803ecac4a33e1b3fe"
   },
   {
-    "url": "favicon/apple-icon-114x114.png",
+    "url": "favicon()/apple-icon-114x114.png",
     "revision": "e332b1f9cf13e90f4a20aa7a5bdc8baf"
   },
   {
-    "url": "favicon/apple-icon-120x120.png",
+    "url": "favicon()/apple-icon-120x120.png",
     "revision": "ce5b08dac1f9df7888bcd4b8ac55860a"
   },
   {
-    "url": "favicon/apple-icon-144x144.png",
+    "url": "favicon()/apple-icon-144x144.png",
     "revision": "fe6b430e258740bcd64a2baf873a6d92"
   },
   {
-    "url": "favicon/apple-icon-152x152.png",
+    "url": "favicon()/apple-icon-152x152.png",
     "revision": "9311b71dbf3d7c449fa655eba4efd7a3"
   },
   {
-    "url": "favicon/apple-icon-180x180.png",
+    "url": "favicon()/apple-icon-180x180.png",
     "revision": "8cae876e1111dec29a0a92dbeb950491"
   },
   {
-    "url": "favicon/apple-icon-57x57.png",
+    "url": "favicon()/apple-icon-57x57.png",
     "revision": "d349fef280057ab820fb110862449ee1"
   },
   {
-    "url": "favicon/apple-icon-60x60.png",
+    "url": "favicon()/apple-icon-60x60.png",
     "revision": "2449753757cc4b29e41374ea0de62dc7"
   },
   {
-    "url": "favicon/apple-icon-72x72.png",
+    "url": "favicon()/apple-icon-72x72.png",
     "revision": "30de33a38d62270b7674423e33c2a296"
   },
   {
-    "url": "favicon/apple-icon-76x76.png",
+    "url": "favicon()/apple-icon-76x76.png",
     "revision": "cc92f0f6281b1b092c30d2e09488b02b"
   },
   {
-    "url": "favicon/apple-icon-precomposed.png",
+    "url": "favicon()/apple-icon-precomposed.png",
     "revision": "4693e5292746a69072e85ecec51e0b3c"
   },
   {
-    "url": "favicon/apple-icon.png",
+    "url": "favicon()/apple-icon.png",
     "revision": "4693e5292746a69072e85ecec51e0b3c"
   },
   {
-    "url": "favicon/apple-touch-icon-120x120.png",
+    "url": "favicon()/apple-touch-icon-120x120.png",
     "revision": "cdbf224429a4ab5124c830824e430ec3"
   },
   {
-    "url": "favicon/apple-touch-icon-152x152.png",
+    "url": "favicon()/apple-touch-icon-152x152.png",
     "revision": "50ffcf9e956bd4fbe6d5ff4231a3bc0b"
   },
   {
-    "url": "favicon/apple-touch-icon-180x180.png",
+    "url": "favicon()/apple-touch-icon-180x180.png",
     "revision": "0e24ac61b2516d2cad8c7f365514cfd4"
   },
   {
-    "url": "favicon/apple-touch-icon-60x60.png",
+    "url": "favicon()/apple-touch-icon-60x60.png",
     "revision": "593d09b43e75f616c878d95b8dbf4b02"
   },
   {
-    "url": "favicon/apple-touch-icon-76x76.png",
+    "url": "favicon()/apple-touch-icon-76x76.png",
     "revision": "e26d4eeb0f82506ee9e260743bfbcd79"
   },
   {
-    "url": "favicon/apple-touch-icon.png",
+    "url": "favicon()/apple-touch-icon.png",
     "revision": "0e24ac61b2516d2cad8c7f365514cfd4"
   },
   {
-    "url": "favicon/favicon-16x16.png",
+    "url": "favicon()/favicon-16x16.png",
     "revision": "718b39e95d139151a176b4048251891e"
   },
   {
-    "url": "favicon/favicon-32x32.png",
+    "url": "favicon()/favicon-32x32.png",
     "revision": "f2d616179ad2aae07b2da243feaf340e"
   },
   {
-    "url": "favicon/favicon-96x96.png",
+    "url": "favicon()/favicon-96x96.png",
     "revision": "3a0660f83f639a9803ecac4a33e1b3fe"
   },
   {
-    "url": "favicon/ms-icon-144x144.png",
+    "url": "favicon()/ms-icon-144x144.png",
     "revision": "fe6b430e258740bcd64a2baf873a6d92"
   },
   {
-    "url": "favicon/ms-icon-150x150.png",
+    "url": "favicon()/ms-icon-150x150.png",
     "revision": "b606b9da5dfd8ab72f9ca32cfd47ce33"
   },
   {
-    "url": "favicon/ms-icon-310x310.png",
+    "url": "favicon()/ms-icon-310x310.png",
     "revision": "60c4e89ec11601dc57ca6047157d1e7c"
   },
   {
-    "url": "favicon/ms-icon-70x70.png",
+    "url": "favicon()/ms-icon-70x70.png",
     "revision": "eee1b9ca03d48aa7ab2f37335a16ecc7"
   },
   {
-    "url": "favicon/mstile-150x150.png",
+    "url": "favicon()/mstile-150x150.png",
     "revision": "14bca4f522e0c925715bbdda73cc94d2"
   },
   {
-    "url": "favicon/safari-pinned-tab.svg",
+    "url": "favicon()/safari-pinned-tab.svg",
     "revision": "43f3881d3115aabff8941e00447784f9"
+  },
+  {
+    "url": "favicon/android-chrome-192x192.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/android-chrome-512x512.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/android-icon-192x192.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/apple-icon-180x180.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/apple-icon-precomposed.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/apple-icon.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/apple-touch-icon.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/favicon-16x16.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/favicon-32x32.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/favicon-96x96.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/ms-icon-144x144.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/ms-icon-310×310.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/ms-icon-70x70.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/mstile-150x150.png",
+    "revision": "6ecf2f2c5ec26c80f89f7d8500124a42"
+  },
+  {
+    "url": "favicon/safari-pinned-tab.svg",
+    "revision": "e4ce0be54ca09cae4e4b53bbdece199d"
   },
   {
     "url": "fizzee-bg.png",
@@ -408,16 +460,12 @@ self.__precacheManifest = [
     "revision": "542712558c72d1744dc5696ee91bd9af"
   },
   {
-    "url": "images/posts/2019/4/fizzee-icon.png",
-    "revision": "f2001a05b39948683cc1ec63cfc0cb46"
-  },
-  {
     "url": "index.html",
-    "revision": "9f11e76b138e0db14879afd0c7eec0da"
+    "revision": "f105eac48d6ba95c1c4db8c7e367e09b"
   },
   {
     "url": "posts/index.html",
-    "revision": "177a768bb5fddd5648d207c2c1b63715"
+    "revision": "716279dd89df67940086d7eb195604a6"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();

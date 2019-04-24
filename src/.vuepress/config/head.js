@@ -1,7 +1,7 @@
 
 module.exports = [
   ['meta', { 'http-equiv': 'x-ua-compatible', content: 'ie=edge' }],
-  ['meta', { name: 'apple-mobile-web-app-title', content: `MY APPLE TITLE` }],
+  ['meta', { name: 'apple-mobile-web-app-title', content: `fizzee` }],
   ['meta', { name: 'theme-color', content: `MY COLOR THEME` }],
   ['meta', { name: 'msapplication-navbutton-color', content: `MY COLOR THEME` }],
   ['meta', { name: 'mobile-web-app-capable', content: 'yes' }],
@@ -12,7 +12,7 @@ module.exports = [
   ['meta', { name: 'googlebot', content: 'index,follow' }],
 
   // Microsoft
-  ['meta', { name: 'application-name', content: `MY APP NAME` }],
+  ['meta', { name: 'application-name', content: `fizzee` }],
   ['meta', { name: 'msapplication-TileColor', content: `MY COLOR THEME` }],
   ['meta', { name: 'msapplication-config', content: '/browserconfig.xml' }],
   ['meta', { name: 'msapplication-square70x70logo', content: '/favicon/ms-icon-70x70.png' }],
@@ -22,7 +22,7 @@ module.exports = [
 
   // Twitter
   ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
-  ['meta', { name: 'twitter:site', content: '@ktquez' }],
+  ['meta', { name: 'twitter:site', content: '@fizzee_jp' }],
 
   // Facebook
   ['meta', { property: 'fb:app_id', content: `MY FACEBOOK APP ID` }],
@@ -42,14 +42,14 @@ module.exports = [
   ['link', { rel: 'author', href: '/humans.txt' }],
   ['link', { rel: 'manifest', href: '/manifest.json' }],
 
-  ['link', { rel: 'apple-touch-icon', sizes: '57x57', href: '/favicon/apple-icon-57x57.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '60x60', href: '/favicon/apple-icon-60x60.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '72x72', href: '/favicon/apple-icon-72x72.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '76x76', href: '/favicon/apple-icon-76x76.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '114x114', href: '/favicon/apple-icon-114x114.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '120x120', href: '/favicon/apple-icon-120x120.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '144x144', href: '/favicon/apple-icon-144x144.png' }],
-  ['link', { rel: 'apple-touch-icon', sizes: '152x152', href: '/favicon/apple-icon-152x152.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '57x57', href: '/favicon/apple-icon-57x57.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '60x60', href: '/favicon/apple-icon-60x60.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '72x72', href: '/favicon/apple-icon-72x72.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '76x76', href: '/favicon/apple-icon-76x76.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '114x114', href: '/favicon/apple-icon-114x114.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '120x120', href: '/favicon/apple-icon-120x120.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '144x144', href: '/favicon/apple-icon-144x144.png' }],
+  // ['link', { rel: 'apple-touch-icon', sizes: '152x152', href: '/favicon/apple-icon-152x152.png' }],
   ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: '/favicon/apple-icon-180x180.png' }],
 
   ['link', { rel: 'icon', type: 'image/png', href: '/favicon/android-icon-192x192.png', sizes: '192x192' }],
@@ -60,7 +60,7 @@ module.exports = [
   ['link', { rel: 'mask-icon', href: '/favicon/safari-pinned-tab.svg', color: '#ff5733' }],
   ['link', { rel: 'shortcut icon', href: '/favicon/favicon.ico' }],
 
-  ['link', { rel: 'alternate', href: `https://MY_DOMAIN.COM/`, hreflang: 'ja' }],
+  ['link', { rel: 'alternate', href: `https://www.fizzee.jp/`, hreflang: 'ja' }],
 
   // Prebrowsing
   ['link', { rel: 'preconnect', href: 'https://connect.facebook.net/' }],

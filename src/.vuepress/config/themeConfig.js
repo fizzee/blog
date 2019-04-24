@@ -12,7 +12,7 @@ module.exports = {
       buttonText: "Update"
     }
   },
-  url: `https://MY_DOMAIN.COM`,
+  url: `https://www.fizzee.jp/`,
   cdn: '',
   blackWhite: true,
   topNavigation: false,
