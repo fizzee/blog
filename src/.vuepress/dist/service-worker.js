@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "2812ba072d806532bc7b3e26157a65a7"
+    "revision": "d48d845101222c33b718278341790d24"
   },
   {
     "url": "404.png",
@@ -29,7 +29,7 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "98bf55510863fc94838f4cb9a336fa2c"
+    "revision": "28a78e5f56fd65e82a4e3926fd93dcf7"
   },
   {
     "url": "assets/css/0.styles.0a4cbbe6.css",
@@ -120,8 +120,8 @@ self.__precacheManifest = [
     "revision": "2136a68af868e52295a1de71402d960d"
   },
   {
-    "url": "assets/js/23.8835c2c1.js",
-    "revision": "f1113df4885785aa0791ecdf7582b332"
+    "url": "assets/js/23.87b68213.js",
+    "revision": "d5e22ef92d2dc3f285c0b80a8b115c54"
   },
   {
     "url": "assets/js/24.3bafa98c.js",
@@ -192,16 +192,16 @@ self.__precacheManifest = [
     "revision": "1c0ac29892850369d6a0767718247b96"
   },
   {
-    "url": "assets/js/app.7e284f09.js",
-    "revision": "37c0935a5add5a5838a547a6a76c21b9"
+    "url": "assets/js/app.4f60378b.js",
+    "revision": "94bd3aa77bee72bcc4d5144b124458e5"
+  },
+  {
+    "url": "authors/fizzee.html",
+    "revision": "0657a97225bb34269767968640204924"
   },
   {
     "url": "authors/index.html",
-    "revision": "e8e0637d00a5b69c148df88b7a12e798"
-  },
-  {
-    "url": "authors/ktquez.html",
-    "revision": "09558f62a382feb633d43fea8ddd15a1"
+    "revision": "9dd754946d214f858f082eb31f95725f"
   },
   {
     "url": "avatar/ogi.png",
@@ -213,11 +213,11 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "91aae339c47e8a4e282834cb6efeaf5e"
+    "revision": "1cd169a3427ac52040b380baa8861453"
   },
   {
     "url": "categories/vuejs.html",
-    "revision": "886b09a3e01047fb0b6e89ccc26881da"
+    "revision": "5c2631b1340e41d4f1ec620087204414"
   },
   {
     "url": "comingsoon.png",
@@ -225,7 +225,7 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "f6547c7e690ab7e6afa1cd1aee51317a"
+    "revision": "cddca93142e41087c025af15ce6a1fb4"
   },
   {
     "url": "favicon()/android-chrome-192x192.png",
@@ -461,11 +461,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "2c26e5b66f66587615448dac5b41a064"
+    "revision": "53f39dccf89c69afbbf02409ccd0e228"
   },
   {
     "url": "posts/index.html",
-    "revision": "18a7a6b8840181cb83f7d05dd7c48459"
+    "revision": "e0d7fa3a806fc2db0630fabaa9016bbd"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
