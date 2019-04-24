@@ -21,7 +21,7 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "db5c7205dfdbd959029f632ef7f9a084"
+    "revision": "2812ba072d806532bc7b3e26157a65a7"
   },
   {
     "url": "404.png",
@@ -29,11 +29,11 @@ self.__precacheManifest = [
   },
   {
     "url": "about/index.html",
-    "revision": "8a7ce0ca814bb85238a1de0e48cac2cb"
+    "revision": "98bf55510863fc94838f4cb9a336fa2c"
   },
   {
-    "url": "assets/css/0.styles.ec0c0d51.css",
-    "revision": "68cc5e53a7beaa592050a26a671cbd04"
+    "url": "assets/css/0.styles.0a4cbbe6.css",
+    "revision": "cd97b83171bbe3ee74f13d4551853fee"
   },
   {
     "url": "assets/fonts/hack-regular.3eccb984.woff2",
@@ -192,16 +192,16 @@ self.__precacheManifest = [
     "revision": "1c0ac29892850369d6a0767718247b96"
   },
   {
-    "url": "assets/js/app.996c8e21.js",
-    "revision": "2bb645f67d2d910ee395bc6e6db6d108"
+    "url": "assets/js/app.7e284f09.js",
+    "revision": "37c0935a5add5a5838a547a6a76c21b9"
   },
   {
     "url": "authors/index.html",
-    "revision": "fe2efab52a26440e41374eda122cd049"
+    "revision": "e8e0637d00a5b69c148df88b7a12e798"
   },
   {
     "url": "authors/ktquez.html",
-    "revision": "47fae52311faafb13af35832ac160d3f"
+    "revision": "09558f62a382feb633d43fea8ddd15a1"
   },
   {
     "url": "avatar/ogi.png",
@@ -213,11 +213,11 @@ self.__precacheManifest = [
   },
   {
     "url": "categories/index.html",
-    "revision": "6f374fd6a0d44a5b54ff09a3429b1040"
+    "revision": "91aae339c47e8a4e282834cb6efeaf5e"
   },
   {
     "url": "categories/vuejs.html",
-    "revision": "dabe438c1ead52b7a2919c1b29895670"
+    "revision": "886b09a3e01047fb0b6e89ccc26881da"
   },
   {
     "url": "comingsoon.png",
@@ -225,7 +225,7 @@ self.__precacheManifest = [
   },
   {
     "url": "contact/index.html",
-    "revision": "052b6865a67bf6cd42b3a54507309b11"
+    "revision": "f6547c7e690ab7e6afa1cd1aee51317a"
   },
   {
     "url": "favicon()/android-chrome-192x192.png",
@@ -461,11 +461,11 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "f105eac48d6ba95c1c4db8c7e367e09b"
+    "revision": "2c26e5b66f66587615448dac5b41a064"
   },
   {
     "url": "posts/index.html",
-    "revision": "716279dd89df67940086d7eb195604a6"
+    "revision": "18a7a6b8840181cb83f7d05dd7c48459"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
