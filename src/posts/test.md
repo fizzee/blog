@@ -1,6 +1,6 @@
 ---
-view: home
-title: 
+view: posts
+title: test
 description: 
 meta:
   - property: og:image
@@ -8,3 +8,4 @@ meta:
   - name: twitter:image
     content: /image-social-share.png
 ---
+test
